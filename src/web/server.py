@@ -17,7 +17,7 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
 
 # read db infos
-db_info = read_db_infos(r"C:\Users\PC MY TU\Desktop\music-search\song_db\db_info.txt")
+db_info = read_db_infos(r"..\..\song_db\db_info.txt")
 # set db infos
 host = db_info["host"]
 user = db_info["user"]
