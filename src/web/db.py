@@ -65,7 +65,7 @@ def read_db_infos(path):
 	return info
 
 if __name__ == "__main__":
-	db_info = read_db_infos(r"C:\Users\PC MY TU\Desktop\music-search\song_db\db_info.txt")
+	db_info = read_db_infos(r"..\..\song_db\db_info.txt")
 	host = db_info["host"]
 	user = db_info["user"]
 	password = db_info["password"]
@@ -78,8 +78,8 @@ if __name__ == "__main__":
 		create_database(connection, database_name)
 		connection.close()
 	
-	song_dir = r"C:\Users\PC MY TU\Desktop\music-search\song_db\songs"
-	infos_dir = r"C:\Users\PC MY TU\Desktop\music-search\song_db\songs_info.txt"
+	song_dir = r"..\..\song_db\songs"
+	infos_dir = r"..\..\songs_info.txt"
 
 	infos = read_song_infos_from_file(infos_dir)
 

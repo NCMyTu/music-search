@@ -18,7 +18,7 @@ def get_audio_metadata(file_path):
         return None
 
 # Example usage
-file_path = r"C:\Users\PC MY TU\Desktop\CK IR\static\uploads\query.mp3"
+file_path = r""
 metadata = get_audio_metadata(file_path)
 
 if metadata:
