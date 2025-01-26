@@ -88,7 +88,7 @@ margin = 10 # exclude margin seconds from start and end of each song
 query_length_sec = 7 # duration in seconds of query audio
 noise_factor = 0.5
 
-db_info = read_db_infos(r"C:\Users\PC MY TU\Desktop\music-search\song_db\db_info.txt")
+db_info = read_db_infos(r"..\song_db\db_info.txt")
 songs_dir = r"..\song_db\songs"
 file_names = os.listdir(songs_dir)
 # file_names = np.random.permutation(file_names) #shuffle
