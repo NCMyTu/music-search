@@ -5,7 +5,7 @@
 2. Create a `/song_db/songs_info.txt` file containing song information in the following format: {file_name_without_extension} ||| {song_name} ||| {artists}.  
 3. Set your database root password in `/song_db/db_info.txt`.
    
-I have already added 10 example songs. For copyright purposes, I can't provide more.
+I have already added 10 example songs. To avoid copyright infringement, I can't provide more.
 
 ## How to run
 1. Install MySQL 8.0.40
