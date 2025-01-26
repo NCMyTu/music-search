@@ -1,0 +1,325 @@
+1 ||| Payphone ||| Maroon 5 ft. Wiz Khalifa
+2 ||| Rolling in the Deep ||| Adele
+3 ||| My Way Of Life ||| Frank Sinatra
+4 ||| Bones ||| Imagine Dragons
+5 ||| Somebody That I Used To Know ||| Gotye ft. Kimbra
+6 ||| Bohemian Rhapsody ||| Queen
+7 ||| Shape of You ||| Ed Sheeran
+8 ||| Kawaki wo Ameku ||| Minami
+9 ||| And I'm Home ||| Eri Kitamura
+10 ||| Say It. ||| Yorushika
+11 ||| Lemon Tree ||| Fools Garden
+12 ||| Uptown Funk ||| Mark Ronson ft. Bruno Mars
+13 ||| Pretty Boy ||| M2M
+14 ||| I Really Want to Stay at Your House ||| Rosa Walton & Hallie Coggins
+15 ||| Skyfall ||| Adele
+16 ||| Nothing's Gonna Change My Love for You ||| George Benson
+17 ||| Pretty Boy ||| M2M
+18 ||| Duvet ||| Bôa
+19 ||| Lost On You ||| LP
+20 ||| Unholy ||| Sam Smith ft. Kim Petras
+21 ||| Orange ||| seven oops
+22 ||| And I'm Home ||| Eri Kitamura & Ai Nonaka
+23 ||| RE Aoharu ||| Nor
+24 ||| Se mettre sur son trente-et-un ! ||| HOYO-MiX
+25 ||| La vaguelette ||| HOYO-MiX, Cécilia Cara
+26 ||| Tsubasa (Cover) ||| Nanahoshi (CV: Shion Wakayama)
+27 ||| Fontaine ||| HOYO-MiX
+28 ||| Isabella’s Lullaby (extended) ||| Takahiro Obata
+29 ||| NARWHAL ||| Haloweak
+30 ||| HIKARI ||| GhostFinal
+31 ||| LOST IN PARADISE ||| ALI ft. AKLO
+32 ||| Cause I Love You ||| Noo Phước Thịnh
+33 ||| Gạt Đi Nước Mắt ||| Noo Phước Thịnh ft. Tonny Việt
+34 ||| Idol ||| YOASOBI
+35 ||| Enemy ||| Imagine Dragons x JID
+36 ||| Maps ||| Maroon 5
+37 ||| One More Night ||| Maroon 5
+38 ||| The Greatest Living Show ||| Toby Fox & Itoki Hana
+39 ||| KICK BACK ||| Kenshi Yonezu
+40 ||| Serene and Fathomless ||| HOYO-MiX
+41 ||| Señorita ||| Shawn Mendes, Camila Cabello
+42 ||| Ameno ||| ERA
+43 ||| Kizuato ||| Kalafina
+44 ||| Kimi Ga Hikari Ni Kaeteiku ||| Kalafina
+45 ||| Aria ||| Kalafina
+46 ||| Yamiyo ||| Eve
+47 ||| Fantasy Note ||| HOYO-MiX
+48 ||| Tooku no Komori no Uta ||| Ohara Yuiko
+49 ||| Chờ Ngày Mưa Tan ||| Noo Phước Thịnh
+50 ||| Payphone ||| Maroon 5 ft. Wiz Khalifa
+51 ||| To Ashes and Blood ||| Woodkid
+52 ||| Sincerely ||| TRUE
+53 ||| I'm Still Standing ||| Elton John
+54 ||| Whirling of Vairambhaka ||| HOYO-MiX
+55 ||| Set Fire to the Rain ||| Adele
+56 ||| Monodrama ||| HOYO-MiX
+57 ||| A Dramatic Irony ||| HOYO-MiX
+58 ||| Fireflies ||| Owl City
+59 ||| Symphony ||| Clean Bandit ft. Zara Larsson
+60 ||| Any Last Words? ||| HOYO-MiX
+61 ||| Carol of the Bells ||| Lindsey Stirling
+62 ||| Tooku no Komori no Uta ||| Ohara Yuiko
+63 ||| Untamed ||| Lindsey Stirling
+64 ||| That’s What I Like ||| Bruno Mars
+65 ||| Immortals ||| Fall Out Boy
+66 ||| Lullaby ||| HOYO-MiX
+67 ||| 24K Magic ||| Bruno Mars
+68 ||| Locked Out Of Heaven ||| Bruno Mars
+69 ||| Grenade ||| Bruno Mars
+70 ||| Rather Be ||| Clean Bandit ft. Jess Glynne
+71 ||| House of Memories ||| Panic! At The Disco
+72 ||| The Wonder of You ||| Elvis Presley
+73 ||| Billie Jean ||| Michael Jackson
+74 ||| Soft and Wet ||| Prince
+75 ||| Komm, süsser Tod ||| Arianne
+76 ||| Moody Blue ||| Elvis Presley
+77 ||| Zoltraak ||| Evan Call
+78 ||| Paint It, Black ||| The Rolling Stones
+79 ||| Don't Stop Me Now ||| Queen
+80 ||| Por una Cabeza ||| Carlos Gardel
+81 ||| Love Train ||| The O'Jays
+82 ||| Wasteland ||| Royal & the Serpent
+83 ||| Virtual Insanity ||| Jamiroquai
+84 ||| Snow Waltz ||| Lindsey Stirling
+85 ||| Dynasty ||| MIIA
+86 ||| shades of light in a transcendent realm ||| ak+q
+87 ||| Thank You ||| Dido
+88 ||| Happy Nation ||| Ace of Base
+89 ||| 505 ||| Arctic Monkeys
+90 ||| Dirty Deeds Done Dirt Cheap ||| AC/DC
+91 ||| God Rest Ye Merry Gentlemen ||| Lindsey Stirling
+92 ||| Ice Storm ||| Lindsey Stirling
+93 ||| Shatter Me ||| Lindsey Stirling ft. Lzzy Hale
+94 ||| Double Life ||| Pharrell Williams
+95 ||| Holding Out For a Hero ||| Jennifer Saunders
+96 ||| Thanks for Your Patronage! ||| HOYO-MiX
+97 ||| Aria Math (Minecraft Volume Beta) ||| C418
+98 ||| Die With A Smile ||| Lady Gaga, Bruno Mars
+99 ||| Rondo Across Countless Kalpas ||| HOYO-MiX
+100 ||| THANATOS ||| Shiro Sagisu
+a0 ||| Chạy ngay đi ||| Sơn Tùng MTP
+a1 ||| Anh đã sai vì anh tin ||| MR Siro
+a2 ||| Ánh nắng của anh ||| Đức Phúc
+a3 ||| Anh sẽ về sớm thôi ||| Isaac
+a4 ||| Cho em ||| MR Siro
+a5 ||| Chuyện buồn tháng ba ||| Isaac
+a6 ||| Còn tuổi nào cho em ||| Miu Lê
+a7 ||| Đau đầu ||| Isaac
+a8 ||| Dưới những cơn mưa ||| MR Siro
+a9 ||| Gác lại lo âu ||| Miu Lê
+a10 ||| Giá như ngày đầu đừng nói thương nhau ||| Isaac
+a11 ||| Hãy trao cho anh ||| Sơn Tùng MTP
+a12 ||| Lạc trôi ||| Sơn Tùng MTP
+a13 ||| Mất kết nối ||| Dương Domic
+a14 ||| Mình yêu nhau từ bao giờ ||| Miu Lê
+a15 ||| Mr Right khi anh yêu em ||| Isaac
+a16 ||| Năm ấy ||| Đức Phúc
+a17 ||| Ngày đầu tiên ||| Đức Phúc
+a18 ||| Nơi anh không thuộc về ||| Isaac
+a19 ||| Nơi này có anh ||| Sơn Tùng MTP
+a20 ||| Sứ thanh hoa ||| Trần Tâm Di
+a21 ||| Thương một người ở xa ||| Bảo Yến
+a22 ||| Yêu là tha thu ||| Đức Phúc
+a23 ||| Yêu người không thể yêu ||| MR Siro
+a24 ||| Không ai hiểu được em ||| MYLINA
+a25 ||| Ấm áp yêu thương ||| Hồ Hoài Anh, Lưu Hương Giang
+a26 ||| A new harley quinn ||| Lyhan
+a27 ||| Ngày xuân long phụng sum vầy ||| Bích Phương
+a28 ||| Cái tết giàu ||| Bùi Công Nam
+a29 ||| Chờ cơn mưa ||| Trung Quân idol
+a30 ||| Chúc mưng năm mới ||| Hồ Quang Hiếu
+a31 ||| Chúc tết ||| Khởi My
+a32 ||| Chúc tết mọi nhà ||| Hồ Ngọc Hà
+a33 ||| Chuyện cũ bỏ qua ||| Trúc Nhân
+a34 ||| Chuyện đôi ta ||| EmceeL
+a35 ||| Con bướm xuân ||| Hồ Quang Hiếu
+a36 ||| Con sẽ về ||| Mystery band
+a37 ||| Cô ta ||| Sing
+a38 ||| Đạp gió ||| Trang Pháp
+a39 ||| Đau nhất là lặng im ||| Erik
+a40 ||| Đón xuân ||| Tóc tiên
+a41 ||| Dự báo thời tiết hôm nay ||| Grey D
+a42 ||| Em giả vờ anh nhận vơ ||| Lê Bảo Bình
+a43 ||| Giai điệu mùa xuân ||| Noo Phước Thịnh
+a44 ||| Gieo quẻ ||| Hoàng Thùy Linh
+a45 ||| Hạnh phúc xuân ||| Noo Phước Thịnh
+a46 ||| Cuối chiều ||| Haisam
+a47 ||| Hoa cỏ mùa xuân & Khá khen ||| Tóc tiên
+a48 ||| Hoa cỏ mùa xuân ||| Võ Hạ Trâm
+a49 ||| Kẻ qua đường ||| Tăng Phúc
+a50 ||| Không phẩy tám phần trăm ||| Vương Anh Tú
+a51 ||| Khúc giao mùa ||| Trung Quân idol
+a52 ||| Lời tỏ tình mùa xuân ||| Bùi Anh Tuấn
+a53 ||| Mở là phải mở ||| Miu Lê, YunoBigBoy
+a54 ||| Một năm mới bình anh ||| Sơn Tùng MTP
+a55 ||| Năm qua đã làm gì ||| Bùi Công Nam
+a56 ||| Nắng xuân hồng ||| Thủy Tiên
+a57 ||| Ngày mùa xuân vừa ghé ||| Thu Minh, Ali Hoàng Dương
+a58 ||| Ngày tết quê em ||| Thùy Chi
+a59 ||| Như hoa mùa xuân ||| Bảo Thy
+a60 ||| Phố không em ||| Thái Đinh
+a61 ||| Sài Gòn hôm nay mưa ||| Jsol, Hoàng Duyên
+a62 ||| Xuân 26 ||| Ngô Lan Hương
+a63 ||| Sớm xuân ||| Ái Phương
+a64 ||| Sự tích mùa xuân ||| Bùi Anh Tuấn
+a65 ||| Tết đong đầy 2 ||| KHOA
+a66 ||| Tết đông đầy ||| KHOA
+a67 ||| Tết này con sẽ về ||| buitruonglinh
+a68 ||| Tết nhà là vô giá ||| Bùi Công Nam
+a69 ||| Tết ổn rồi ||| Bùi Công Nam
+a70 ||| Tết xuân ||| Đông Nhi, Isaac
+a71 ||| Thế là tết ||| Đức Phúc, Hòa Minzy
+a72 ||| Ước mơ ngọt ngào ||| Đan Trường, Cẩm Ly
+a73 ||| Về nhà là có tết ||| Bùi Công Nam
+a74 ||| Về quê thôi ||| Nal
+a75 ||| Vì sao anh ghét ||| Trịnh Đình Quang
+a76 ||| Vô hình trong tim em ||| MR Siro
+a77 ||| Với người ta chẳng yêu ||| Ren
+a78 ||| Giấc mơ tái sinh||| Rum
+a79 ||| Xuân ||| Bảo Anh
+a80 ||| Xuân Ca ||| Noo Phước Thịnh
+a81 ||| Xuân đã về ||| Đinh Hương
+a82 ||| Biển hát chiều nay ||| Tùng Dương
+a83 ||| Bông hồng cài áo ||| Cẩm Vân
+a84 ||| Dạ khúc ||| Nguyên Hà
+a85 ||| Dĩ vãng nhạt nhòa ||| Lân Nhã
+a86 ||| Em về tinh khôi ||| Trần Thu Hà
+a87 ||| Em về tóc xanh ||| Quốc bảo, Võ Lê Vy
+a88 ||| Giấc mơ mùa thu ||| Hà Anh Tuấn
+a89 ||| Giấc mơ tuyệt vời ||| Uyên Linh
+a90 ||| Gửi người em gái ||| Tùng Dương
+a91 ||| Hà Nội ngày ấy ||| Hà Anh Tuấn
+a92 ||| Hương ngọc lan ||| Mỹ Linh
+a93 ||| Khi giấc mơ về ||| Phương Thanh
+a94 ||| Mắt biếc ||| Đức Tuấn
+a95 ||| Mẹ yêu con ||| Tùng Dương
+a96 ||| Một ngày mùa đông ||| Lê Hiếu
+a97 ||| Một thời đã xa ||| Thùy Chi
+a98 ||| Nếu em được chọn lựa ||| Hồ Ngọc Hà
+a99 ||| Sắc màu ||| Trần Thu Hà
+a100 ||| Tuổi đá buồn ||| Hồng Nhung
+a101 ||| Tuổi đời mênh mông ||| Hồng Nhung
+a102 ||| Ước sao ta chưa gặp nhau ||| Uyên Linh
+ts_1 ||| Haunted (Taylor's Version) ||| Taylor Swift
+ts_2 ||| CHIHIRO ||| Billie Eilish
+ts_3 ||| Một Ngày Chẳng Nắng ||| Pháo
+ts_4 ||| Đi Đu Đưa Đi ||| Bích Phương
+ts_5 ||| Misery ||| Maroon 5
+ts_6 ||| Timeless (Taylor's Version) ||| Taylor Swift
+ts_7 ||| Nàng Kiều Lỡ Bước ||| HKT
+ts_8 ||| HỒNG NHAN ||| J97
+ts_9 ||| Stronger Than You ||| Steven Universe Feat. Estelle
+ts_10 ||| Exit Sign ||| HIEUTHUHAI
+ts_11 ||| Electric Touch (Taylor's Version) ||| Taylor Swift Feat. Fall Out Boy
+ts_12 ||| When Emma Falls In Love (Taylor's Version) ||| Taylor Swift
+ts_13 ||| I Can See You (Taylor's Version) ||| Taylor Swift
+ts_14 ||| Long Live (Taylor's Version) ||| Taylor Swift
+ts_15 ||| Castles Crumbling (Taylor's Version) ||| Taylor Swift Feat. Hayley Williams
+ts_16 ||| Foolish One (Taylor's Version) ||| Taylor Swift
+ts_17 ||| Gái Độc Thân ||| tlinh
+ts_18 ||| HOP ON DA SHOW ||| tlinh, Low G
+ts_19 ||| Nếu Lúc Đó ||| tlinh, 2pillz
+ts_20 ||| Fortnight ||| Taylor Swift Feat. Post Malone
+ts_21 ||| The Tortured Poets Department ||| Taylor Swift
+ts_22 ||| My Boy Only Breaks His Favorite Toys ||| Taylor Swift
+ts_23 ||| Down Bad ||| Taylor Swift
+ts_24 ||| So Long, London ||| Taylor Swift
+ts_25 ||| But Daddy I Love Him ||| Taylor Swift
+ts_26 ||| Fresh Out The Slammer ||| Taylor Swift
+ts_27 ||| Florida!!! ||| Taylor Swift Feath. Florence + The Machine
+ts_28 ||| Guilty As Sin? ||| Taylor Swift
+ts_29 ||| Who's Afraid Of Little Old Me ||| Taylor Swift
+ts_30 ||| I Can Fix Him (No Really I Can) ||| Taylor Swift
+ts_31 ||| lolm ||| Taylor Swift
+ts_32 ||| I Can Do It With A Broken Heart ||| Taylor Swift
+ts_33 ||| The Smallest Man Who Ever Lived ||| Taylor Swift
+ts_34 ||| The Alchemy ||| Taylor Swift
+ts_35 ||| Clara Bow ||| Taylor Swift
+ts_36 ||| The Black Dog ||| Taylor Swift
+ts_37 ||| Imgonnagetyouback ||| Taylor Swift
+ts_38 ||| The Albatross ||| Taylor Swift
+ts_39 ||| Chloe or Sam or Sophia or Marcus ||| Taylor Swift
+ts_40 ||| How Did it End? ||| Taylor Swift
+ts_41 ||| So High School ||| Taylor Swift
+ts_42 ||| I Hate It Here ||| Taylor Swift
+ts_43 ||| thanK you aIMee ||| Taylor Swift
+ts_44 ||| I Look in People's Windows ||| Taylor Swift
+ts_45 ||| The Prophecy ||| Taylor Swift
+ts_46 ||| Cassandra ||| Taylor Swift
+ts_47 ||| Peter ||| Taylor Swift
+ts_48 ||| The Bolter ||| Taylor Swift
+ts_49 ||| Robin ||| Taylor Swift
+ts_50 ||| The Manuscript ||| Taylor Swift
+ts_51 ||| Mắt Nai Chachacha ||| Hồng Ngọc
+ts_52 ||| Teen Vọng Cổ ||| Vĩnh Thuyên Kim
+ts_53 ||| Tuyết Yêu Thương ||| Young Uno
+ts_54 ||| Công Chúa Bong Bóng ||| Bảo Thy
+ts_55 ||| Ngôi Nhà Hạnh Phúc ||| Thủy Tiên
+ts_56 ||| Nhớ Rất Nhiều ||| Kim Hải Nhi
+ts_57 ||| Nếu Như Anh Đến ||| Văn Mai Hương
+ts_58 ||| Vì Sao ||| Khởi My, Hoàng Rapper
+ts_59 ||| Bốn Chữ Lắm ||| Trúc Nhân, Trương Thảo Nhi
+ts_60 ||| Chiếc Khăn Gió Ấm ||| Khánh Phương
+ts_61 ||| Bay ||| Thu Minh
+ts_62 ||| Xe Đạp Ơi ||| Noo Phước Thịnh
+ts_63 ||| Cát Bụi ||| Quang Dũng, Hồng Nhung
+ts_64 ||| Duyên Phận ||| Dương Hồng Loan
+ts_65 ||| Mượn Rượu Tỏ Tình ||| BigDaddy, Emily
+ts_66 ||| Không Phải Gu ||| HIEUTHUHAI
+ts_67 ||| Không Thể Say ||| HIEUTHUHAI
+ts_68 ||| Ai Cũng Phải Bắt Đầu Từ Đâu Đó ||| HIEUTHUHAI
+ts_69 ||| Người Ấy ||| Trịnh Thăng Bình
+ts_70 ||| Bad Guy ||| Billie Eilish
+ts_71 ||| Xin Lỗi ||| Nguyên Hà
+ts_72 ||| Vũ Trụ Cò Bay ||| Phương Mỹ Chi
+ts_73 ||| Gối Gấm ||| Phương Mỹ Chi
+ts_74 ||| Đẩy Xe Bò ||| Phương Mỹ Chi, DTAP
+ts_75 ||| Vũ Trụ Có Anh ||| Phương Mỹ Chi, DTAP, Pháo
+ts_76 ||| Những Ngôi Sao Xa Xôi ||| Phương Mỹ Chi, DTAP
+ts_77 ||| Bóng Phù Hoa ||| Phương Mỹ Chi, DTAP
+ts_78 ||| Chiếc Lược Ngà ||| Phương Mỹ Chi, DTAP, Kim Tử Long
+ts_79 ||| Hai Đứa Trẻ ||| Phương Mỹ Chi, DTAP, Suboi
+ts_81 ||| Người Con Gái Nằm Nghe Biển Hát ||| Phương Mỹ Chi, DTAP
+ts_82 ||| Lượm ||| Phương Mỹ Chi
+ts_83 ||| Buôn Trăng ||| Phương Mỹ Chi
+ts_84 ||| Rock Hạt Gạo ||| Phương Mỹ Chi
+ts_85 ||| Con Cò Và Mặt Trời ||| Phương Mỹ Chi, Huỳnh Lập
+ts_86 ||| 360 featuring robyn & yung lean ||| charlixcx
+ts_87 ||| Fake Love ||| BTS
+ts_88 ||| Không Thể Nói (OST Hoa Thiên Cốt) ||| Hoắc Kiến Hoa, Triệu Lệ Dĩnh
+ts_89 ||| Tâm Chi Hỏa (OST Hoa Thiên Cốt) ||| Bành Giai Tuệ
+ts_90 ||| Vây Giữ ||| Vương Tĩnh Văn Không Mập
+ts_91 ||| Có Thể Hay Không ||| Trương Y Hào
+ts_92 ||| Giày Cao Gót Màu Đỏ ||| Chu Lợi
+ts_93 ||| Moves Like Jagger ||| Guzheng
+ts_94 ||| Whistle ||| Flo Rida
+ts_95 ||| WHISTLE ||| BLACKPINK
+ts_96 ||| Kill This Love ||| BLACKPINK
+ts_97 ||| Đi Giữa Trời Rực Rỡ ||| Ngô Lan Hương
+ts_98 ||| Nấu Ăn Cho Em ||| Đen
+ts_99 ||| How You Like That ||| BLACKPINK
+ts_100 ||| Gieo Quẻ ||| Hoàng Thùy Linh Feat. Đen
+ts_101 ||| Màu Xanh ||| Trần Tuyết Ngưng
+ts_102 ||| Lửng Lơ (Phong Max Remix) ||| Masew, BRay, RedT, Ý Tiên
+ts_103 ||| Vì Yêu Cứ Đâm Đầu ||| MIN, Đen, JustaTee
+ts_104 ||| Girl, so confusing featuring lorde ||| charlixcx
+ts_105 ||| Duyên Mình Lỡ ||| Hương Tràm
+ts_106 ||| Because I'm Stupid ||| SS501
+ts_107 ||| Stay ||| BLACKPINK
+ts_108 ||| Russian Roulette ||| Red Velvet
+ts_109 ||| Back To December (Taylor's Version) ||| Taylor Swift
+ts_110 ||| The Story Of Us (Taylor's Version) ||| Taylor Swift
+ts_111 ||| Enchanted (Taylor's Version) ||| Taylor Swift
+ts_112 ||| Mine (Taylor's Version) ||| Taylor Swift
+ts_113 ||| Cry Cry ||| T-Ara
+ts_114 ||| Sexy Love ||| T-Ara
+ts_115 ||| Apple ||| charlixcx
+ts_116 ||| Von dutch ||| charlixcx
+ts_117 ||| Yoru Ni Kakeru ||| YOASOBI
+ts_118 ||| Masayume Chasing ||| BoA
+ts_119 ||| What is Love? ||| TWICE
+ts_120 ||| Blood Teller ||| Faylan
+ts_121 ||| Kuusoumesorogiwi ||| Yousei Teikoku
+ts_122 ||| Stay With Me ||| Chan Yeol (EXO), Punch
+ts_123 ||| Say Yes To Heaven ||| Lana Del Rey

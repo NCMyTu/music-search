@@ -1,0 +1,8 @@
+cryptography==43.0.1
+Flask==3.0.3
+ipython==8.12.3
+librosa==0.10.2.post1
+mysql-connector-python==9.1.0
+numpy==1.26.4
+scipy==1.12.0
+Werkzeug==3.0.2

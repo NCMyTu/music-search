@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search by Sound</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="{{ url_for('static', filename='script.js') }}" defer></script>
+</head>
+
+<body>
+    <div class="main-content">
+        <div class="header">
+            <button class="play-btn">Upload</button>
+            <button class="follow-btn">Record</button>
+        </div>
+
+        <div class="music-bar">
+            <span class="current-time">00:00</span>
+            <input type="range" min="0" max="100" value="30" class="progress-bar">
+            <span class="total-time">00:00</span>
+            <audio class="audio-player" hidden></audio>
+        </div>
+
+        <center style="visibility: hidden;">
+            <h1>Result</h1>
+            <p class="song-name">s</p>
+            <p class="artists">a</p>
+        </center>
+    </div>
+</body>
+</html>
