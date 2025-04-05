@@ -1,4 +1,5 @@
 # Music Search
+Search for songs based on audio input.
 
 ## Set up
 1. Collect your songs (in .mp3 format) and place them in the `/song_db/songs` directory.  
